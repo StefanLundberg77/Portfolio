@@ -42,7 +42,7 @@ Git, GitHub, Visual Studio, Visual Studio Code, Spyder IDE
 
 ## Other Skills
 
-Windows OS, Microsoft Office Suite, Adobe Photoshop, Adobe Illustrator
+Windows OS, Microsoft Office Suite
 
 ---
 
